@@ -83,3 +83,5 @@ build
 
 # Too Big
 *.mp4
+
+.vercel
